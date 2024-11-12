@@ -3,4 +3,6 @@ Notebook ini menggunakan Transfer Learning dengan model DenseNet121 untuk mengkl
 2. Latihan Model: Melatih model dengan semua lapisan aktif, lalu mengevaluasi performa.
 3. Pembekuan Lapisan: Menguji performa dengan membekukan beberapa bagian lapisan model (denseblock1 dan denseblock2) dan melatih ulang.
 4. Bonus Model: Mengulangi langkah di atas dengan model ResNet dan Vision Transformer.
+
+
 Tujuan utama adalah untuk mengevaluasi pengaruh Transfer Learning dan pembekuan lapisan pada klasifikasi digit.
